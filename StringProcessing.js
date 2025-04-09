@@ -257,10 +257,3 @@ function matchFullName(names) {
     console.log();
 }
 matchFullName("Ivan Ivanov, Ivan ivanov, ivan Ivanov, IVan Ivanov, Test Testov");
-
-console.log("--------------- TASK 13 ---------------");
-console.log();
-console.log("--------------- TASK 14 ---------------");
-console.log();
-console.log("--------------- TASK 15 ---------------");
-console.log();
