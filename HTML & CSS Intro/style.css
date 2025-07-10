@@ -1,0 +1,92 @@
+/* Task 14 */
+body {
+    background-color: antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+    display: flex;
+}
+
+img {
+    height: 400px;
+    width: 400px;
+}
+
+.highlight1 {
+    background-color: rgba(255, 255, 0, 0.301);
+    color:brown;
+}
+
+.highlight2 {
+    background-color: darkkhaki;
+    font-size: 10px;
+}
+
+.note {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    border: 2px solid saddlebrown;
+}
+
+/* Task 15 */
+#header {
+    color: rgb(20, 192, 201);
+}
+
+#p1 {
+    color:rgb(205, 121, 11);
+}
+
+#p2 {
+    color:crimson;
+}
+
+/* Task 16 */
+* {
+    margin: 10;
+    padding: 10;
+}
+
+/* Task 17 */
+h1, h2 {
+    margin: 10;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* Task 21 */
+.tight {
+    line-height: 1;
+    background-color: rgb(182, 194, 182);
+}
+
+.normal {
+    line-height: 1.5;
+    background-color: #96cc96;
+}
+
+.loose {
+    line-height: 2;
+    background-color: #eaffea;
+}
+
+/* Task 26 */
+body {
+    background-image: url("https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjcwNS1zYXNpLTAyXzFfMC5qcGc.jpg");
+    /* Task 27 */
+    background-size: contain; 
+}
+
+/* Task 28 */
+button:hover {
+    background-color: antiquewhite;
+    color:rgb(220, 139, 34);
+}
+
+/* Task 29 */
+p::first-line {
+    font-weight: bold;
+    color: darkblue;
+    font-size: 10px;
+    text-transform: uppercase;
+}
