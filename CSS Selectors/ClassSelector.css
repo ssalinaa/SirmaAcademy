@@ -1,0 +1,15 @@
+.highlight {
+    color: red;
+    background-color: bisque;
+}
+
+.not-highlight {
+    color: blue;
+}
+
+.common-style {
+    background-color: burlywood;
+    border-color: black;
+    border-style: dashed;
+    color: rgb(243, 16, 190);
+}

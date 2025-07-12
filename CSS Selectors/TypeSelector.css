@@ -1,0 +1,25 @@
+p {
+    color: blue;
+    font-weight: bold;
+}
+
+h1, h2 {
+    color:green;
+}
+
+h3 {
+    color:brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.text {
+    color:rgb(70, 207, 207);
+}
+
+div {
+    background-color: rgb(198, 139, 139);
+    font-size: 40px;
+    width: 70vw;
+    height: 50vh;
+}

@@ -1,0 +1,13 @@
+.parent {
+    font-size: 20px;
+    color: red;
+    background-color: azure;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.child {
+    font-size: 1.5em;
+    color: blue;
+    background-color: antiquewhite;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}       

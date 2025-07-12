@@ -1,0 +1,8 @@
+.height-example {
+    height: 40vh;
+    min-height: 100px;
+    max-height: 300px;
+    background-color: rgb(51, 182, 182);
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

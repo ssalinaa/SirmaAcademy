@@ -1,0 +1,26 @@
+input[type="text"] {
+    background-color: antiquewhite;
+    color: lightpink;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+input[type="submit"] {
+    background-color: lightsalmon;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a[href="https://example.com"] {
+    background-color: rgb(223, 231, 239);
+    font-size: large;
+    color: lightcoral;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a[href="https://another.com"] {
+    background-color: lightskyblue;
+    color: darkorange;
+    font-size: small;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

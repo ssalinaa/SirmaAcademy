@@ -1,0 +1,11 @@
+.pixel-width {
+    width: 300px;
+    background-color: blueviolet;
+    height: 200px;
+}
+
+.percentage-width {
+    width: 50%;
+    background-color: chartreuse;
+}
+

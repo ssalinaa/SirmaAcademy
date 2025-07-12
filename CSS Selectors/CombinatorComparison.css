@@ -1,0 +1,17 @@
+div p {
+    background-color: lightgrey;
+    font-size: 30px;
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: end;
+    margin: 30px;
+}
+
+div > p {
+    background-color: lightgreen;
+    font-size: 30px;
+    color: darkorchid;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin: 20px;
+}

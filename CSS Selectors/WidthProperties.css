@@ -1,0 +1,8 @@
+.width-example {
+    width: 60vw;
+    min-width: 200px;
+    max-width: 600px;
+    background-color: cadetblue;
+    font-size: 30px;
+    color: darkblue;
+}

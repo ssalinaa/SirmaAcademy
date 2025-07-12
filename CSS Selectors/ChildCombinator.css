@@ -1,0 +1,13 @@
+div > p {
+    background-color: wheat;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    color: darkolivegreen;
+}
+
+.parent > p {
+    background-color: rgb(123, 112, 91);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    color: darkred;
+}
